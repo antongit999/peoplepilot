@@ -1,0 +1,8 @@
+app/tmp/*
+app/config/database.php
+.buildpath
+.project
+.settings/*
+app/webroot/files/*
+app/webroot/img/magazines/*
+*.swp
